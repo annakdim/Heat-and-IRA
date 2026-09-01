@@ -42,24 +42,24 @@ The scripts are written in R and require the following packages (all available f
 **Package versions tested:** 
 *  dlnm: 2.4.10
 *  dplyr: 1.1.4
-  ggplot2: 4.0.0
-  haven: 2.5.4
-  here: 1.0.2
-  lubridate: 1.9.4
-  purrr: 1.2.1
-  raster: 3.6.30
-  readr: 2.1.5
-  readxl: 1.4.3
-  rworldmap: 1.3.8
-  sf: 1.0.21
-  sp: 2.1.4
-  stringr: 1.5.1
-  survival: 3.7.0
-  tibble: 3.2.1
-  tidyr: 1.3.2
-  tidyverse: 2.0.0
-  viridis: 0.6.5
-  zoo: 1.8.12
+*  ggplot2: 4.0.0
+*  haven: 2.5.4
+*  here: 1.0.2
+*  lubridate: 1.9.4
+*  purrr: 1.2.1
+*  raster: 3.6.30
+*  readr: 2.1.5
+*  readxl: 1.4.3
+*  rworldmap: 1.3.8
+*  sf: 1.0.21
+*  sp: 2.1.4
+*  stringr: 1.5.1
+*  survival: 3.7.0
+*  tibble: 3.2.1
+*  tidyr: 1.3.2
+*  tidyverse: 2.0.0
+*  viridis: 0.6.5
+*  zoo: 1.8.12
 
 **Non-standard hardware:** None required. All analyses run on a standard desktop or laptop computer (no GPU or high-memory cluster needed).
 
