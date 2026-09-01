@@ -40,8 +40,8 @@ The scripts are written in R and require the following packages (all available f
 **R version tested:** *R version 4.4.2*
 
 **Package versions tested:** 
-  dlnm: 2.4.10
-  dplyr: 1.1.4
+*  dlnm: 2.4.10
+*  dplyr: 1.1.4
   ggplot2: 4.0.0
   haven: 2.5.4
   here: 1.0.2
